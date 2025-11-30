@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Bhupendra, Passionate developer exploring new technologies and building clean, useful projects.
+I'm Bhupendra, a passionate developer exploring new technologies and building clean, useful projects.
 
 I enjoy building projects inspired by whatever sparks my interest.
 
